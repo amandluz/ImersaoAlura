@@ -12,6 +12,11 @@ body {
     height: 100vh; /* Preenche a altura total da viewport */
     margin: 0; /* Remove a margem padrão */
     padding: 0; /* Remove o padding padrão */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-image: url("https://media.discordapp.net/attachments/689540899117858903/1281713108070567946/sunseet.JPG?ex=66dcb7da&is=66db665a&hm=161e371bf3a4d408b3cac44c2d725bc510a55f5415907606faf0da551906bffe&=&format=webp&width=832&height=502");
 }
 
 /* Estiliza os títulos h1 */
